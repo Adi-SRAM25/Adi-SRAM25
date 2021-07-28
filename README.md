@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adi-SRAM25
 - 👀 I’m interested in In-Memory Computing & Neuromorphic computing.
-- I have explored App Developement, Computer Vision & currently exploring deep neural networks.
+- I have explored App Development, Computer Vision & currently exploring deep neural networks.
 - 📫 How to reach me - aditya_s@ee.iitr.ac.in | +91-7082049735
 
 <!---
