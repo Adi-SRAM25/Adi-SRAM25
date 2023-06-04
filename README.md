@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Sharma, a rising senior at Indian Institute of Technology Roorkee, India 
+- 👋 Hi, I’m Aditya Sharma, a recent graduate in B.Tech Electrical Engineering from Indian Institute of Technology Roorkee, India 
 - 👀 I’m interested in Digital Design using FPGA, Computer Architecture, In-Memory Computing & Neuromorphic computing.
 - ✈ I have done research internships at University of Toronto and University of Southern California.
 - 🏎 I am also heading electrical division of IIT Roorkee's official formula student team IIT Roorkee Motorsports.
